@@ -12,4 +12,4 @@ Once valid, try shrinking the window from left to minimize it.
 Keep track of the smallest valid window.
 
 Time Complexity: O(n) (each character is processed at most twice).
-Space Complexity: O(1) (only storing characters from t)..
+Space Complexity: O(1) (only storing characters from t)....
